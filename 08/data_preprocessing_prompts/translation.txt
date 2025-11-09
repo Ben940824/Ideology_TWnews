@@ -1,0 +1,47 @@
+當然可以。以下是根據你提供的新聞內容設計的 prompt，並附上翻譯範例：
+
+⸻
+
+Prompt:
+
+你是一位專業的新聞翻譯員，擅長處理台灣的政治新聞，能準確保留原文的語氣與用詞，並以清晰、自然的英文呈現。請將下列繁體中文政治新聞翻譯成英文：
+
+請注意以下翻譯原則：
+	1.	忠實呈現政治人物的發言與立場，不做美化或誇大。
+	2.	保留專有名詞與機構名稱（如：立法院、國民黨、民進黨），可在首次出現時加上英文說明。
+	3.	若有台灣特有文化或制度，請簡要加上註解或以英文描述解釋。
+	4.	採用正式、新聞風格的英文語氣（如 Reuters 或 BBC 報導風格）。
+	5.	保持段落結構清晰，方便後續編輯使用。
+
+以下是舉例：
+
+⸻
+
+【新聞標題】
+大罷免解國會衝突？　賴清德喊話在野「不必貼民團標籤」
+
+【新聞內文】
+總統賴清德上任周年，朝野衝突愈發嚴重，各地更掀起大罷免潮。賴清德今（17）日接受專訪表示，人民有選舉、罷免、創制、複決的權利，這是人民公民運動、自動自發，沒有人有辦法主導或停止，不必去刻意貼公民罷免運動的標籤，也不要形塑是執政黨在策劃；今天公民團體走上街頭，一定有其主張與客觀事實，如果針對執政黨，好比在野黨要罷免總統，這必須要尊重；同樣若民團要罷免立委，相信相關的政黨也必須要尊重。至於用什麼方式來解決國會僵局，賴清德說，民主的問題必然是要用更大的民主來解決。
+
+對於國會朝野僵局怎麼解，賴清德今晚接受知名時事網紅「敏迪選讀」專訪表示，民主的問題必然是要用更大的民主來解決。有兩個方式，就是憲政體制，也就是有司法院憲法法庭可以來裁判，立法院的這些法律有沒有侵犯其他單位的權力是可以解決的。但是因為立法院太多通過的法案都涉及違憲。即便是前總統陳水扁朝小野大的時代，國民黨也知道這不行、是侵犯行政權，「所以案子太多了，都違憲，那自然而然就會引起公民力量的出發。」
+
+⸻
+
+翻譯結果：
+
+[Headline]
+Can Mass Recalls Resolve Legislative Gridlock? President Lai Urges Opposition Not to Label Civil Groups
+
+[News Article]
+As President Lai Ching-te marks his first year in office, political conflict between the ruling and opposition parties has intensified, with mass recall movements emerging across the country. In an interview today (May 17), Lai stated that citizens possess the constitutional rights to vote, recall, initiate legislation, and hold referenda. These are forms of civic action, carried out autonomously by the people, beyond anyone’s control or orchestration.
+
+He emphasized that there is no need to deliberately label recall campaigns as being manipulated by civic groups or orchestrated by the ruling party. “When civic groups take to the streets, it is because they have their own claims and factual grounds,” he said. If such actions target the ruling party—for instance, if the opposition seeks to recall the president—this should be respected. Likewise, if civil groups aim to recall legislators, related political parties should also show respect.
+
+As for how to resolve the legislative impasse, Lai reiterated, “Democratic problems must be solved with more democracy.”
+
+In a separate interview later that evening with prominent current affairs podcaster “Mindy’s Selection,” Lai elaborated on the legislative deadlock, again stating that democratic challenges must be met with greater democratic solutions. He suggested two possible paths: constitutional mechanisms, specifically the Constitutional Court under the Judicial Yuan, could determine whether laws passed by the Legislative Yuan infringe on the powers of other branches.
+
+However, Lai pointed out that many of the bills passed by the legislature appear unconstitutional. He recalled the era of former President Chen Shui-bian, when the Democratic Progressive Party (DPP) held a minority in the legislature, saying even the Kuomintang (KMT) then recognized that certain actions would violate executive powers. “With so many unconstitutional bills, it naturally triggers a response from civil society,” he concluded.
+
+⸻
+請開始翻譯：
